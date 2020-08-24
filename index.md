@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Whoiskrol/isolamento/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Whoiskrol/isolamento/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Link para uma página da pasta</title>
+</head>
+<body>
+  <H1>
+      <i>
+      Rodrigues Produções
+      </i>
+  </H1>
+  <h2>MENU</h2>
+  <hr>
+  <p>
+    <h3>
+  <ul>
+    <li> <a href="filme.html">Filme</a> </li>
+    <li> <a href="livro.html">Livro</a> </li>
+    <li> <a href="música.html">Música</a> </li>
+  </ul>
+  </h3>
+  </p>
+  <hr>
+ <h2> Lançamentos</h2>
+ <img src="images/obras.jpg">
+ <p>
+   <h2>
+     <i>
+     A Rodrigues Produções, vem com lançamentos incríveis para o ano de 2020, confira no cartaz! 
+     <br>
+     Acesse os links no menu para informações detalhadas, e fique por dentro do melhor repertório musical, literário e do cinema no momento. 
+     </i>
+   </h2>
+ </p>
+ <br> <br> <br>
+ <hr>
+ <center>
+<h3> 
+Entre em contato com a gente
+</h3>
+<p>
+  Email: Karolarodrigues15@gmail.com 
+  <br>
+  <a href="https://instagram.com/whoiskrol">Instagram</a>
+  <br>
+  Telefone para contato; 4002-8922
+  </p>
+  </center>
+  
+</body>
+</html>
